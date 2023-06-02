@@ -21,6 +21,11 @@ https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSY
 Tech Interview Handbook:
 https://github.com/yangshun/tech-interview-handbook
 
-Collection of resources by another NUS SoC student (links to many resources there):
+Collection of resources by another NUS SoC student (links to many resources):
 https://github.com/quarbby/links-and-resources
 
+What CS majors should know:
+https://matt.might.net/articles/what-cs-majors-should-know/
+
+Front end interview preparation materials for busy engineers:
+https://www.frontendinterviewhandbook.com/
