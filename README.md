@@ -1,4 +1,8 @@
-# nus-cs-resources
+# NUS CS Resources (Last updated: 3 June 2023)
+
+Notes to (NUS) Computer Science Freshmen, From The Future: <br>
+https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
+https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/
 
 Algorithm visualisation:
 https://visualgo.net/en
