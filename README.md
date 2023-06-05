@@ -52,3 +52,9 @@ Front end interview preparation materials for busy engineers: <br>
 https://www.frontendinterviewhandbook.com/
 https://github.com/yangshun/front-end-interview-handbook
 
+Front End Interview preparation platform:
+https://www.greatfrontend.com/
+
+Algo Monster:
+https://algo.monster/dashboard
+
